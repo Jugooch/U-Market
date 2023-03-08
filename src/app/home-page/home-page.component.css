@@ -1,0 +1,38 @@
+#main{
+  margin: 8px;
+}
+
+#header{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
+
+h1{
+  color: white;
+}
+
+h2{
+  color: white
+}
+
+.see-all{
+  margin: 8px;
+  height:30px;
+  align-self: flex-end;
+  width: 100px;
+}
+
+app-product{
+  margin:8px;
+}
+
+app-user{
+  margin: 8px;
+}
+
+.container{
+  background-color: #212529;
+  padding: 8px;
+}
